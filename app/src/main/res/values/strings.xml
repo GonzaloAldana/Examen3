@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Examen3</string>
+    <string name="usuario">Noe no estuvo :(</string>
+    <string name="hintUsuario">Correo</string>
+    <string name="hintPassword">Password</string>
 </resources>

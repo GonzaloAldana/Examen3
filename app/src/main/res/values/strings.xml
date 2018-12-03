@@ -3,4 +3,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info">¡Bienvenido!</string>
+    <string name="info2">Los mejores lugares ecoturíticos los encontrarás aquí.
+        \n\n\nViajar y apoyar al medio ambiente nunca fue tan emocionante </string>
+    <string name="ingo3">©Copyright \nTodos los derechos reservados</string>
 </resources>
